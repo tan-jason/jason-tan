@@ -2,7 +2,7 @@
 
 ## Learn More About Me!
 
-![READMEIMG](../READMEIMAGES/READMEIMG.png)
+![READMEIMG](./READMEIMAGES/READMEIMG.png)
 
 ## features
 
